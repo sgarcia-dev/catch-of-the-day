@@ -2,6 +2,10 @@
   "name": "cotd",
   "version": "0.0.3",
   "private": true,
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.6.1"
+  },
   "devDependencies": {
     "concurrently": "3.5.1",
     "react-scripts": "^1.1.4"
